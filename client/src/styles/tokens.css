@@ -1,0 +1,17 @@
+:root {
+  --void: #0B0E11;
+  --dusk: #1A2129;
+  --dusk-light: #232B34;
+  --mist: #8A97A3;
+  --snow: #F2F4F6;
+  --ember: #E8834E;
+  --ember-dark: #4A1B0C;
+  --glacier: #5FA8C7;
+
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --radius: 8px;
+  --radius-lg: 12px;
+}
