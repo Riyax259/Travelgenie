@@ -1,0 +1,7 @@
+{
+  "name": "basecamp",
+  "scripts": {
+    "build": "cd client && npm install && npm run build",
+    "start": "cd server && npm start"
+  }
+}
